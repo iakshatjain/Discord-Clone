@@ -1,0 +1,1 @@
+This Discord clone is a fully responsive web application created using Tailwind CSS. Tailwind's utility-first approach allowed for efficient and flexible styling, ensuring a seamless experience across various devices. Dive into the world of real-time communication with this sleek and responsive Discord clone, built with simplicity and user experience in mind.
